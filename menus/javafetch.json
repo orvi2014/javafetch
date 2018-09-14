@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Fetch javafetch",
+        "command": "javafetch:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "javafetch",
+          "submenu": [
+            {
+              "label": "Fetch",
+              "command": "javafetch:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
