@@ -14,7 +14,10 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "cryptiles": "^4.1.2",
     "google": "^2.0.0",
-    "request": "^2.73.0"
+    "hoek": "^5.0.4",
+    "request": "^2.73.0",
+    "tough-cookie": "^2.4.3"
   }
 }
