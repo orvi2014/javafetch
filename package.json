@@ -1,13 +1,13 @@
 {
   "name": "javafetch",
   "main": "./lib/javafetch",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "javafetch:fetch"
   },
-  "repository": "https://github.com/atom/javafetch",
+  "repository": "https://github.com/orvi2014/javafetch",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
