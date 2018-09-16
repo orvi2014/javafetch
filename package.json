@@ -2,7 +2,7 @@
   "name": "javafetch",
   "main": "./lib/javafetch",
   "version": "0.0.1",
-  "description": "A short description of your package",
+  "description": "Java code snippet.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "javafetch:fetch"
