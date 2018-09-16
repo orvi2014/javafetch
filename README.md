@@ -1,4 +1,6 @@
 ### JAVA FETCH ###
+![Alt Text](https://media.giphy.com/media/Xptw53gBnl6qK2H4Mc/giphy.gif)
+
 Quickly get answers java related to code snippet in atom editor
 
 ### Installation ###
